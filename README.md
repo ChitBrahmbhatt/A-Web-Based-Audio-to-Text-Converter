@@ -14,9 +14,15 @@ A modern speech-to-text converter built with **React + TypeScript**, using the `
 
 ## 📸 Preview
 
+I
+
 ![App Screenshot](./screenshot.png)
 
 ---
+
+https://github.com/user-attachments/assets/70983e20-5a2a-44bf-bf1c-18e134b438c1
+
+
 
 ## 🚀 Getting Started
 
